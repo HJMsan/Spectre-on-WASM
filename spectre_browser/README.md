@@ -5,4 +5,3 @@ python3 -m http.server
 ```
 
 firefoxから`localhost:8000`につないで見る。
-![](../img/cachetiming_browser.png)
